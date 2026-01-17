@@ -2,33 +2,33 @@ README – NYC Food Delivery Data Analysis
 
 Project Overview
 
-This project analyzes a real-world food delivery dataset from New York City.
+ This project analyzes a real-world food delivery dataset from New York City.
 
-The goal is to explore order data, clean data issues, and generate useful business insights using Python.
+ The goal is to explore order data, clean data issues, and generate useful business insights using Python.
 
-The analysis focuses on understanding customer behavior, order patterns, and operational performance.
+ The analysis focuses on understanding customer behavior, order patterns, and operational performance.
 
 Project Purpose
 
-1.Practice data analysis using Python
+ 1.Practice data analysis using Python
 
-2.Learn how to clean messy real-world data
+ 2.Learn how to clean messy real-world data
 
-3.Use visualization to support business decisions
+ 3.Use visualization to support business decisions
 
-4.Build a complete data analysis workflow from raw data to insights
+ 4.Build a complete data analysis workflow from raw data to insights
 
 Tools and Technologies
 
-1.Python
+ 1.Python
 
-2.Pandas
+ 2.Pandas
 
-3.NumPy
+ 3.NumPy
 
-4.Matplotlib
+ 4.Matplotlib
 
-5.Jupyter Notebook
+ 5.Jupyter Notebook
 
 
 Project Structure
@@ -46,7 +46,7 @@ nyc-food-delivery-analysis/
 
 What I Did in This Project
 
-1. Data Cleaning
+ 1. Data Cleaning
 
   a.Checked missing values
   
@@ -58,7 +58,7 @@ What I Did in This Project
   
   e.Created a clean dataset for analysis
 
-3. Data Exploration
+ 2. Data Exploration
    
    a.Analyzed order trends
    
@@ -68,7 +68,7 @@ What I Did in This Project
    
    e.Visualized key metrics using charts
 
-5. Business Analysis
+ 3. Business Analysis
    
    a.Identified peak order times
    
@@ -80,7 +80,7 @@ What I Did in This Project
 
  Key Findings
  
- 1.Some main insights from the analysis:
+  1.Some main insights from the analysis:
  
 	a.Most orders happen during evening hours
 	b.Delivery delays strongly affect customer ratings
@@ -88,7 +88,7 @@ What I Did in This Project
 	d.Faster delivery time leads to higher customer satisfaction
 	e.Weekends have higher order volumes
 
- 2.These insights can help improve:
+  2.These insights can help improve:
  
 	a.Delivery scheduling
 	b.Customer service
@@ -97,32 +97,32 @@ What I Did in This Project
 
 What I Learned
 
-Through this project, I learned:
+ Through this project, I learned:
 
- 1.How to work with real-world datasets
+  1.How to work with real-world datasets
  
- 2.How to clean and prepare data
+  2.How to clean and prepare data
  
- 3.How to use Pandas for analysis
+  3.How to use Pandas for analysis
  
- 4.How to visualize data effectively
+  4.How to visualize data effectively
  
- 5.How to turn data into business insights
+  5.How to turn data into business insights
 
 About Me
 
-I am a Data Science graduate student currently studying in the United States.
+  I am a Data Science graduate student currently studying in the United States.
 
-I am interested in:
+  I am interested in:
 
 	•	Business Analytics
 	•	HR Analytics
 	•	Data-driven decision making
 	
-This project is part of my coursework and learning journey.
+  This project is part of my coursework and learning journey.
 
 Contact
 
- If you have any questions or suggestions, feel free to contact me.
+   If you have any questions or suggestions, feel free to contact me.
 
 Thank you for checking my project! 😊
